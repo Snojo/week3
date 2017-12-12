@@ -2711,3 +2711,93 @@ eventIssued - {"type":"databaseCleaned"}
 eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
 eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
 eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"59eb015b-62af-4fbb-93ad-089ebd640f97","type":"chatMessageReceived","message":"Message 97","sender":{"clientId":98,"user":{"userName":"Anonymous#98","userId":98}}}
+eventIssued - {"eventId":"658d1b2b-6e8c-457c-9400-fb2902d714ff","type":"chatMessageReceived","message":"Message 96","sender":{"clientId":97,"user":{"userName":"Anonymous#97","userId":97}}}
+eventIssued - {"eventId":"3acc0b58-2c02-4d8c-867e-c78f23d36a9a","type":"chatMessageReceived","message":"Message 95","sender":{"clientId":96,"user":{"userName":"Anonymous#96","userId":96}}}
+eventIssued - {"eventId":"26a8bba0-8c3d-47eb-b6dc-0b7b20d353c2","type":"chatMessageReceived","message":"Message 94","sender":{"clientId":95,"user":{"userName":"Anonymous#95","userId":95}}}
+eventIssued - {"eventId":"2ea0498a-1e77-41f0-afcd-a6260985c00e","type":"chatMessageReceived","message":"Message 93","sender":{"clientId":94,"user":{"userName":"Anonymous#94","userId":94}}}
+eventIssued - {"eventId":"620d3c1a-b772-4f85-a55f-333d4203ba37","type":"chatMessageReceived","message":"Message 92","sender":{"clientId":93,"user":{"userName":"Anonymous#93","userId":93}}}
+eventIssued - {"eventId":"2360bc66-ef7e-4faf-897b-cbc3638843f8","type":"chatMessageReceived","message":"Message 91","sender":{"clientId":92,"user":{"userName":"Anonymous#92","userId":92}}}
+eventIssued - {"eventId":"971dda76-91f6-4ee4-963c-bc12a212fa8a","type":"chatMessageReceived","message":"Message 90","sender":{"clientId":91,"user":{"userName":"Anonymous#91","userId":91}}}
+eventIssued - {"eventId":"0391817f-4e04-407d-85e5-ed8e21d1ab34","type":"chatMessageReceived","message":"Message 89","sender":{"clientId":90,"user":{"userName":"Anonymous#90","userId":90}}}
+eventIssued - {"eventId":"efdd770f-0fdc-4e10-8ce4-73bfa8ac9c22","type":"chatMessageReceived","message":"Message 88","sender":{"clientId":89,"user":{"userName":"Anonymous#89","userId":89}}}
+eventIssued - {"eventId":"98a47745-2f00-409d-9d76-9e72ad337425","type":"chatMessageReceived","message":"Message 87","sender":{"clientId":88,"user":{"userName":"Anonymous#88","userId":88}}}
+eventIssued - {"eventId":"70aed084-2705-44bf-8b7a-79a975735b98","type":"chatMessageReceived","message":"Message 86","sender":{"clientId":87,"user":{"userName":"Anonymous#87","userId":87}}}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"gameId":"c7a57fff-fff1-4ac6-85c2-99bfbb5c756e","type":"GameCreated","side":"X","eventId":"a14610ec-a654-40a0-92ef-efe1982acf24","userSession":{"clientId":207,"user":{"userName":"Anonymous#207","userId":207}},"commandId":"0b81bb5f-b539-4a06-8a8d-f7a94df5a10e"}
+eventIssued - {"gameId":"80a2b9c3-a06a-4c77-9037-553f860abf1c","type":"GameCreated","side":"X","eventId":"c6a3a9b9-7a31-4c28-9218-58f3e675f6d1","userSession":{"clientId":209,"user":{"userName":"Anonymous#209","userId":209}},"commandId":"14d022fd-cb25-4d16-ab6b-628f098dcb05"}
+eventIssued - {"gameId":"dde7ac34-9ba4-4254-9589-639fcda9acb5","type":"GameCreated","side":"X","eventId":"6030faf2-8ccb-4ef5-875e-31d9285e3fed","userSession":{"clientId":205,"user":{"userName":"Anonymous#205","userId":205}},"commandId":"f55d2e8c-5c21-4647-be57-f6931292308a"}
+eventIssued - {"gameId":"dde7ac34-9ba4-4254-9589-639fcda9acb5","type":"GameJoined","side":"O","eventId":"8447c474-b48a-4f76-b562-80369c7e73cc","userSession":{"clientId":206,"user":{"userName":"Anonymous#206","userId":206}},"commandId":"45c4bdd0-b6af-4a2a-8617-9bb0b8e3bbfd"}
+eventIssued - {"gameId":"429e834a-bb34-49ba-8eef-309df7b74bb4","type":"GameCreated","side":"X","eventId":"43c4dca9-2bd2-437e-a5ec-2b7e9ff1a076","userSession":{"clientId":213,"user":{"userName":"Anonymous#213","userId":213}},"commandId":"4c2a4f6c-03cf-4f12-b010-c2c01d484023"}
+eventIssued - {"gameId":"8268dc22-f0f3-4a7d-a2bf-b56c083ca479","type":"GameCreated","side":"X","eventId":"34f54360-259b-4c75-b820-e872b5bfc4ce","userSession":{"clientId":211,"user":{"userName":"Anonymous#211","userId":211}},"commandId":"fe8fcf4a-76d7-4bad-9ca1-8619292c7a8d"}
+eventIssued - {"gameId":"c7a57fff-fff1-4ac6-85c2-99bfbb5c756e","type":"GameJoined","side":"O","eventId":"c136d394-8e83-4260-8967-30fc945e9fe6","userSession":{"clientId":208,"user":{"userName":"Anonymous#208","userId":208}},"commandId":"d6e875f4-ef9b-40c7-9a07-e3fe5ecbaee8"}
+eventIssued - {"gameId":"80a2b9c3-a06a-4c77-9037-553f860abf1c","type":"GameJoined","side":"O","eventId":"cf110486-02d0-4f28-a8b1-fcbee9618b74","userSession":{"clientId":210,"user":{"userName":"Anonymous#210","userId":210}},"commandId":"86ab8385-3187-4635-be79-d9919f4e8642"}
+eventIssued - {"gameId":"dde7ac34-9ba4-4254-9589-639fcda9acb5","type":"MovePlaced","move":{"xy":{"x":0,"y":0},"side":"X"},"eventId":"31326254-30f9-4502-ae1e-8f560c72cf7f","userSession":{"clientId":205,"user":{"userName":"Anonymous#205","userId":205}},"commandId":"8edd2a34-60cb-4747-aa24-3588154b28ce"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
