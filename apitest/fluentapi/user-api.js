@@ -24,6 +24,7 @@ module.exports=function(injected){
             pop:function(verb, message){
                 if(!waitingFor.counters[verb]){
                     if(verb!=="GameCreated"){
+                        console.log("Dash.... I failed...");
                         fail("Not waiting on " + verb  + ", ERROR!" + JSON.stringify(message) + JSON.stringify(game));
                     }
                 } else {
