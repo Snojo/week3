@@ -11,6 +11,7 @@ node {
         {
             sh 'yarn install || npm install'
         }
+        sh 'npm run docker-compose up || npm run build'
         sh 'npm run startpostgres && sleep 10 && npm run migratedb:dev'
         sh 'npm run startserver:nowatch'
     }

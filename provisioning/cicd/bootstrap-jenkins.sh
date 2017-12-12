@@ -13,6 +13,8 @@ sudo yum -y install git
 
 sudo service docker start
 sudo usermod -a -G docker ec2-user
+sudo pip install docker-compose
+sudo pip install backports.ssl_match_hostname --upgrade
 
 curl --silent --location https://rpm.nodesource.com/setup_9.x | sudo bash -
 sudo yum -y install nodejs
