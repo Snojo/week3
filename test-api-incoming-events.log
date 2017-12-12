@@ -2597,3 +2597,117 @@ eventIssued - {"type":"databaseCleaned"}
 eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
 eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
 eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"8626552d-3403-478e-a6a0-da8bd22b1206","type":"chatMessageReceived","message":"Message 1","sender":{"clientId":2,"user":{"userName":"Anonymous#2","userId":2}}}
+eventIssued - {"eventId":"61ffc4ed-4e36-4ec9-9b40-05fb1293c259","type":"chatMessageReceived","message":"Message 2","sender":{"clientId":3,"user":{"userName":"Anonymous#3","userId":3}}}
+eventIssued - {"eventId":"beafd8f0-97e0-463c-9a81-e4cc1f961dfc","type":"chatMessageReceived","message":"Message 3","sender":{"clientId":4,"user":{"userName":"Anonymous#4","userId":4}}}
+eventIssued - {"eventId":"291bb103-7873-4c46-980b-0db83e59c55a","type":"chatMessageReceived","message":"Message 4","sender":{"clientId":5,"user":{"userName":"Anonymous#5","userId":5}}}
+eventIssued - {"eventId":"b7e00dd3-a6e9-4ea8-9281-f8dc2c1f79e6","type":"chatMessageReceived","message":"Message 5","sender":{"clientId":6,"user":{"userName":"Anonymous#6","userId":6}}}
+eventIssued - {"eventId":"39a00d5c-9da8-48de-a6a7-d76c6dfd2ecf","type":"chatMessageReceived","message":"Message 6","sender":{"clientId":7,"user":{"userName":"Anonymous#7","userId":7}}}
+eventIssued - {"eventId":"da708b29-6f41-46c6-9e67-5d00d7f4a967","type":"chatMessageReceived","message":"Message 7","sender":{"clientId":8,"user":{"userName":"Anonymous#8","userId":8}}}
+eventIssued - {"eventId":"a36ca6e9-cb99-4710-8b91-3362179de903","type":"chatMessageReceived","message":"Message 52","sender":{"clientId":53,"user":{"userName":"Anonymous#53","userId":53}}}
+eventIssued - {"eventId":"9ff6e1d4-48f0-45d3-9305-1f3cbc753bb1","type":"chatMessageReceived","message":"Message 8","sender":{"clientId":9,"user":{"userName":"Anonymous#9","userId":9}}}
+eventIssued - {"eventId":"4920572f-8589-44d3-9f1d-bbb26a2ae78b","type":"chatMessageReceived","message":"Message 9","sender":{"clientId":10,"user":{"userName":"Anonymous#10","userId":10}}}
+eventIssued - {"eventId":"58e6fa17-d6fb-4a9e-814e-ba8b7c6d1c26","type":"chatMessageReceived","message":"Message 10","sender":{"clientId":11,"user":{"userName":"Anonymous#11","userId":11}}}
+eventIssued - {"eventId":"2cac2ab8-c82d-4d47-852c-62473ada7c11","type":"chatMessageReceived","message":"Message 11","sender":{"clientId":12,"user":{"userName":"Anonymous#12","userId":12}}}
+eventIssued - {"eventId":"624b5a58-c2df-4369-9eb4-1a6b64773213","type":"chatMessageReceived","message":"Message 12","sender":{"clientId":13,"user":{"userName":"Anonymous#13","userId":13}}}
+eventIssued - {"eventId":"a758b224-dd55-48e3-a36a-a6b839ac5c8f","type":"chatMessageReceived","message":"Message 13","sender":{"clientId":14,"user":{"userName":"Anonymous#14","userId":14}}}
+eventIssued - {"eventId":"480c4c6c-2282-44ac-b601-9335ca954345","type":"chatMessageReceived","message":"Message 14","sender":{"clientId":15,"user":{"userName":"Anonymous#15","userId":15}}}
+eventIssued - {"eventId":"5e847dc0-88f3-4c5e-befb-2c5bbecddc39","type":"chatMessageReceived","message":"Message 15","sender":{"clientId":16,"user":{"userName":"Anonymous#16","userId":16}}}
+eventIssued - {"eventId":"fa641645-4fe3-4d6a-a152-b902c1376479","type":"chatMessageReceived","message":"Message 16","sender":{"clientId":17,"user":{"userName":"Anonymous#17","userId":17}}}
+eventIssued - {"eventId":"b827abcb-ad2a-42f6-ab12-d17f0085e0b2","type":"chatMessageReceived","message":"Message 17","sender":{"clientId":18,"user":{"userName":"Anonymous#18","userId":18}}}
+eventIssued - {"eventId":"82b34df5-81b0-4b0a-a0d8-772c3fa9bd8f","type":"chatMessageReceived","message":"Message 18","sender":{"clientId":19,"user":{"userName":"Anonymous#19","userId":19}}}
+eventIssued - {"eventId":"62ef4e33-736f-4ddd-84fd-60219df99bca","type":"chatMessageReceived","message":"Message 19","sender":{"clientId":20,"user":{"userName":"Anonymous#20","userId":20}}}
+eventIssued - {"eventId":"852c3d63-62b6-4ae1-a5ba-82c289388cd3","type":"chatMessageReceived","message":"Message 20","sender":{"clientId":21,"user":{"userName":"Anonymous#21","userId":21}}}
+eventIssued - {"eventId":"29f930f3-f795-4edf-b73b-7bd197e5b8c5","type":"chatMessageReceived","message":"Message 21","sender":{"clientId":22,"user":{"userName":"Anonymous#22","userId":22}}}
+eventIssued - {"eventId":"fd394034-6760-4b03-aa85-5ebd6f7bdc1c","type":"chatMessageReceived","message":"Message 22","sender":{"clientId":23,"user":{"userName":"Anonymous#23","userId":23}}}
+eventIssued - {"eventId":"12254475-7252-4955-a169-5571feb9b342","type":"chatMessageReceived","message":"Message 23","sender":{"clientId":24,"user":{"userName":"Anonymous#24","userId":24}}}
+eventIssued - {"eventId":"4a7cbecf-0d82-4339-9d5e-b390ba63347c","type":"chatMessageReceived","message":"Message 24","sender":{"clientId":25,"user":{"userName":"Anonymous#25","userId":25}}}
+eventIssued - {"eventId":"5de750ee-ff26-4c1b-b98d-de5ae7c91105","type":"chatMessageReceived","message":"Message 25","sender":{"clientId":26,"user":{"userName":"Anonymous#26","userId":26}}}
+eventIssued - {"eventId":"b7693b3d-e9d6-4835-804e-58a007bda3ac","type":"chatMessageReceived","message":"Message 26","sender":{"clientId":27,"user":{"userName":"Anonymous#27","userId":27}}}
+eventIssued - {"eventId":"e4515214-bb41-48a1-8a13-f760bbd4a152","type":"chatMessageReceived","message":"Message 27","sender":{"clientId":28,"user":{"userName":"Anonymous#28","userId":28}}}
+eventIssued - {"eventId":"c2180d2f-c425-4ac6-a94f-b2486d6d91b1","type":"chatMessageReceived","message":"Message 28","sender":{"clientId":29,"user":{"userName":"Anonymous#29","userId":29}}}
+eventIssued - {"eventId":"6bee09b3-f695-428f-b5b1-0fed9447ff76","type":"chatMessageReceived","message":"Message 29","sender":{"clientId":30,"user":{"userName":"Anonymous#30","userId":30}}}
+eventIssued - {"eventId":"d31d685d-a422-4acc-8da5-1c43e69dc782","type":"chatMessageReceived","message":"Message 30","sender":{"clientId":31,"user":{"userName":"Anonymous#31","userId":31}}}
+eventIssued - {"eventId":"63f2af35-fd63-4831-9ed6-94a0ff163902","type":"chatMessageReceived","message":"Message 31","sender":{"clientId":32,"user":{"userName":"Anonymous#32","userId":32}}}
+eventIssued - {"eventId":"91e42cf0-1eab-4a67-8244-188e504a69ba","type":"chatMessageReceived","message":"Message 32","sender":{"clientId":33,"user":{"userName":"Anonymous#33","userId":33}}}
+eventIssued - {"eventId":"a518e047-6349-4c7f-afbd-ae18c037a7a2","type":"chatMessageReceived","message":"Message 33","sender":{"clientId":34,"user":{"userName":"Anonymous#34","userId":34}}}
+eventIssued - {"eventId":"bdec4ad0-5fa1-42f8-8227-68cfdfd43af1","type":"chatMessageReceived","message":"Message 34","sender":{"clientId":35,"user":{"userName":"Anonymous#35","userId":35}}}
+eventIssued - {"eventId":"1bcd4c58-8177-48f7-8933-492a15a8408b","type":"chatMessageReceived","message":"Message 35","sender":{"clientId":36,"user":{"userName":"Anonymous#36","userId":36}}}
+eventIssued - {"eventId":"bb457ecb-ae43-4953-8c90-ec5aca05d64b","type":"chatMessageReceived","message":"Message 36","sender":{"clientId":37,"user":{"userName":"Anonymous#37","userId":37}}}
+eventIssued - {"eventId":"ddb0eef6-edd5-4f51-bc79-e196040d84e7","type":"chatMessageReceived","message":"Message 37","sender":{"clientId":38,"user":{"userName":"Anonymous#38","userId":38}}}
+eventIssued - {"eventId":"95818905-5041-4cea-8305-982aa07e2b45","type":"chatMessageReceived","message":"Message 38","sender":{"clientId":39,"user":{"userName":"Anonymous#39","userId":39}}}
+eventIssued - {"eventId":"41bc9d55-8262-4f32-991a-d48b99929db8","type":"chatMessageReceived","message":"Message 39","sender":{"clientId":40,"user":{"userName":"Anonymous#40","userId":40}}}
+eventIssued - {"eventId":"73238b82-629d-4ac9-a055-721a5824889b","type":"chatMessageReceived","message":"Message 40","sender":{"clientId":41,"user":{"userName":"Anonymous#41","userId":41}}}
+eventIssued - {"eventId":"3d809b1b-e2cc-453c-bf36-05e23339df3d","type":"chatMessageReceived","message":"Message 41","sender":{"clientId":42,"user":{"userName":"Anonymous#42","userId":42}}}
+eventIssued - {"eventId":"182006f4-e562-49ac-aeb0-3aca5a0ceaca","type":"chatMessageReceived","message":"Message 42","sender":{"clientId":43,"user":{"userName":"Anonymous#43","userId":43}}}
+eventIssued - {"eventId":"fe6367a5-2db4-4d04-a442-a2c88407d36a","type":"chatMessageReceived","message":"Message 43","sender":{"clientId":44,"user":{"userName":"Anonymous#44","userId":44}}}
+eventIssued - {"eventId":"37456786-716c-4fcb-88a9-c993bac6cc08","type":"chatMessageReceived","message":"Message 44","sender":{"clientId":45,"user":{"userName":"Anonymous#45","userId":45}}}
+eventIssued - {"eventId":"524227f5-71f9-42ed-8c37-ce68bed8f0ed","type":"chatMessageReceived","message":"Message 45","sender":{"clientId":46,"user":{"userName":"Anonymous#46","userId":46}}}
+eventIssued - {"eventId":"7df796f9-bf2d-44f5-a9b3-6b099832f4b2","type":"chatMessageReceived","message":"Message 46","sender":{"clientId":47,"user":{"userName":"Anonymous#47","userId":47}}}
+eventIssued - {"eventId":"4e34b5a5-6f5a-461d-bb63-ab7a17089498","type":"chatMessageReceived","message":"Message 47","sender":{"clientId":48,"user":{"userName":"Anonymous#48","userId":48}}}
+eventIssued - {"eventId":"76d27430-1089-42b3-b65b-a3db9e47a9a9","type":"chatMessageReceived","message":"Message 48","sender":{"clientId":49,"user":{"userName":"Anonymous#49","userId":49}}}
+eventIssued - {"eventId":"1fa52ec7-fdc1-49dd-8943-e2f0b8f0c617","type":"chatMessageReceived","message":"Message 49","sender":{"clientId":50,"user":{"userName":"Anonymous#50","userId":50}}}
+eventIssued - {"eventId":"8dd3704e-ac3f-4fbd-a619-49eb40a5b5ab","type":"chatMessageReceived","message":"Message 50","sender":{"clientId":51,"user":{"userName":"Anonymous#51","userId":51}}}
+eventIssued - {"eventId":"27a55e4d-8e73-47e2-852a-a6c9785ed7e3","type":"chatMessageReceived","message":"Message 51","sender":{"clientId":52,"user":{"userName":"Anonymous#52","userId":52}}}
+eventIssued - {"eventId":"6e3e26de-32d6-451b-887e-bbf3372d660f","type":"chatMessageReceived","message":"Message 56","sender":{"clientId":57,"user":{"userName":"Anonymous#57","userId":57}}}
+eventIssued - {"eventId":"1adf119f-c4a9-4c1d-9376-91a874eb9c7e","type":"chatMessageReceived","message":"Message 57","sender":{"clientId":58,"user":{"userName":"Anonymous#58","userId":58}}}
+eventIssued - {"eventId":"c152ee08-fbd4-4f59-9c64-6a42df6235c4","type":"chatMessageReceived","message":"Message 58","sender":{"clientId":59,"user":{"userName":"Anonymous#59","userId":59}}}
+eventIssued - {"eventId":"29b0028d-9814-4a93-b7b7-9c6f4bf0c6bc","type":"chatMessageReceived","message":"Message 59","sender":{"clientId":60,"user":{"userName":"Anonymous#60","userId":60}}}
+eventIssued - {"eventId":"3ad708c0-8751-4529-aa29-820999d1bbda","type":"chatMessageReceived","message":"Message 60","sender":{"clientId":61,"user":{"userName":"Anonymous#61","userId":61}}}
+eventIssued - {"eventId":"91dfc0ab-1a56-4aea-9fce-d429ac553860","type":"chatMessageReceived","message":"Message 61","sender":{"clientId":62,"user":{"userName":"Anonymous#62","userId":62}}}
+eventIssued - {"eventId":"a2413234-8348-4755-9d91-b070d1e4d5e3","type":"chatMessageReceived","message":"Message 62","sender":{"clientId":63,"user":{"userName":"Anonymous#63","userId":63}}}
+eventIssued - {"eventId":"8f3ee670-b165-4b07-8284-6e1d100a92ea","type":"chatMessageReceived","message":"Message 63","sender":{"clientId":64,"user":{"userName":"Anonymous#64","userId":64}}}
+eventIssued - {"eventId":"fe9c9711-c95d-4cda-b408-98d3855d2ea1","type":"chatMessageReceived","message":"Message 199","sender":{"clientId":200,"user":{"userName":"Anonymous#200","userId":200}}}
+eventIssued - {"eventId":"e0cb25a2-4418-4160-8e87-89eb4fd6bc38","type":"chatMessageReceived","message":"TWO","sender":{"clientId":201,"user":{"userName":"Anonymous#201","userId":201}}}
+eventIssued - {"eventId":"54881eb8-2f17-43e0-859c-5d035150bb4d","type":"chatMessageReceived","message":"Message 55","sender":{"clientId":56,"user":{"userName":"Anonymous#56","userId":56}}}
+eventIssued - {"eventId":"c8938731-8c8b-4781-910e-398b646f4fba","type":"chatMessageReceived","message":"Message 54","sender":{"clientId":55,"user":{"userName":"Anonymous#55","userId":55}}}
+eventIssued - {"eventId":"4fb733f9-b78b-4ac2-91fd-a4a820704b4b","type":"chatMessageReceived","message":"Message 53","sender":{"clientId":54,"user":{"userName":"Anonymous#54","userId":54}}}
+eventIssued - {"eventId":"c6d7ea51-5ae4-4c26-ba38-e7f37db57ecf","type":"chatMessageReceived","message":"Message 64","sender":{"clientId":65,"user":{"userName":"Anonymous#65","userId":65}}}
+eventIssued - {"eventId":"6939be86-b3cf-43a6-a926-f047da8170f0","type":"chatMessageReceived","message":"Message 81","sender":{"clientId":82,"user":{"userName":"Anonymous#82","userId":82}}}
+eventIssued - {"eventId":"d09e8b6d-df39-47d2-b9dc-3f2a35193207","type":"chatMessageReceived","message":"Message 80","sender":{"clientId":81,"user":{"userName":"Anonymous#81","userId":81}}}
+eventIssued - {"eventId":"cf1a2554-5540-4b3e-878b-1a9d690b4a5a","type":"chatMessageReceived","message":"Message 79","sender":{"clientId":80,"user":{"userName":"Anonymous#80","userId":80}}}
+eventIssued - {"eventId":"72ee0ab9-04bb-4848-b312-e073eb74aa4f","type":"chatMessageReceived","message":"Message 78","sender":{"clientId":79,"user":{"userName":"Anonymous#79","userId":79}}}
+eventIssued - {"eventId":"49f66566-f31b-4aab-b291-246e253bdbca","type":"chatMessageReceived","message":"Message 77","sender":{"clientId":78,"user":{"userName":"Anonymous#78","userId":78}}}
+eventIssued - {"eventId":"0daf226b-6136-464c-b807-044c5c61c472","type":"chatMessageReceived","message":"Message 76","sender":{"clientId":77,"user":{"userName":"Anonymous#77","userId":77}}}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}
+eventIssued - {"eventId":"eventLogCleaned","type":"tableCleaned","tableName":"eventlog"}
+eventIssued - {"eventId":"commandLogCleaned","type":"tableCleaned","tableName":"commandlog"}
+eventIssued - {"type":"databaseCleaned"}

@@ -13,7 +13,7 @@ jasmine.getEnv().addReporter(consoleReporter);
 
 var reporters = require('jasmine-reporters');
 var junitReporter = new reporters.JUnitXmlReporter({
-    savePath: 'PATH',
+    savePath: './test-reports',
     consolidateAll: false
 });
 jasmine.getEnv().addReporter(junitReporter)
