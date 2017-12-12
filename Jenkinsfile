@@ -14,8 +14,8 @@ node {
     }
     stage('Test') {
         sh 'npm run test:nowatch'
-        sh 'npm run jenapitest'
-        sh 'npm run jenloadtest'
+        sh 'npm run apitest:nowatch'
+        sh 'npm run loadtest:nowatch'
     }
     stage('Deploy') {
         sh './dockerbuild.sh'
