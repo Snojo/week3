@@ -22,7 +22,11 @@ sudo yum -y install gcc-c++ make
 
 sudo yum install jenkins -y
 sudo usermod -a -G docker jenkins
+sudo usermod -a -G docker dd-agent
 
 sudo service jenkins start
+
+#docker run -d --name dd-agent -v /var/run/docker.sock:/var/run/docker.sock:ro -v /proc/:/host/proc/:ro -v /cgroup/:/host/sys/fs/cgroup:ro -e API_KEY=503a19af5fbb1affa42e535f807d6ac8 -e SD_BACKEND=docker datadog/docker-dd-agent:latest
+
 
 touch ec2-init-done.markerfile
