@@ -21,18 +21,19 @@ node {
     }
     
     stage('API and Load Test') {
-       sh './dockerbuild.sh'
-        dir('./provisioning'){
-            // sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d --build'
-            sh './test-docker-compose-and-run.sh'
-        }
-        sh 'npm run apitest:nowatch'
-        sh 'npm run loadtest:nowatch'
-        sh '/usr/local/bin/docker-compose down'
+    //    sh './dockerbuild.sh'
+    //     dir('./provisioning'){
+    //         // sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d --build'
+    //         sh './test-docker-compose-and-run.sh'
+    //     }
+        sh 'npm run startserver & npm run apitest:nowatch && npm run loadtest:nowatch'
+        //sh 'npm run apitest:nowatch'
+        //sh 'npm run loadtest:nowatch'
+        //sh '/usr/local/bin/docker-compose down'
     }
 
     stage('Deploy') {
-        //sh './dockerbuild.sh'
+        sh './dockerbuild.sh'
         dir('./provisioning')
         {
             sh "./provision-new-environment.sh"
