@@ -13,7 +13,7 @@ function serverModule(injected) {
     const Postgres = require('./db/postgres');
     const DbConfig = require('./database.json');
 
-    const dbConfig = DbConfig['dev'];
+    const dbConfig = DbConfig[process.env.DB_ENV || 'dev'];
 
     const ChatAppContext = require('./socket-app/server-app-context');
 
@@ -45,7 +45,7 @@ function serverModule(injected) {
             require('./http-routes/api')(
                 inject({app})
             );
-
+            console.log(PORT);
             app.get('/*', function (req, res) {
                 // Render index.html in all cases and pass route handling to react
                 res.sendFile(Path.join(__dirname,'static','index.html'));

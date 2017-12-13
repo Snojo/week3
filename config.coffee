@@ -23,7 +23,7 @@ exports.config =
         before: ['client/app.js']
   server:
     path: 'server.js'
-    port: 80
+    port: 8000
   watcher:
     usePolling: true
   plugins:
