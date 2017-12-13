@@ -6,5 +6,6 @@ COPY package.json .
 RUN npm install --silent
 COPY . .
 EXPOSE 8080
+EXPOSE 8000
 ENV NODE_PATH /server/
 CMD ["./runserver.sh"]
