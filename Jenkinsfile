@@ -14,7 +14,7 @@ node {
         //sh 'npm run docker-compose up || npm run build'
         sh 'npm run startpostgres && sleep 10 && npm run migratedb:dev'
         dir('./provisioning'){
-            sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d'
+            sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d --build'
         }
         
     }
