@@ -30,7 +30,7 @@ node {
         //sh 'npm run apitest:nowatch'
         //sh 'npm run loadtest:nowatch'
         //sh '/usr/local/bin/docker-compose down'
-        step([$class: 'JUnitResultArchiver', testDataPublishers: [[$class: 'AttachmentPublisher']], testResults: 'test-reports/*.xml']
+        step([$class: 'JUnitResultArchiver', testDataPublishers: [[$class: 'AttachmentPublisher']], testResults: 'test-reports/*.xml'])
     }
 
     stage('Deploy') {
