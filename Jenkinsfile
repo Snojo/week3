@@ -13,7 +13,7 @@ node {
         }
         //sh 'npm run docker-compose up || npm run build'
         sh 'npm run startpostgres && sleep 10 && npm run migratedb:dev'
-        sh '/usr/local/bin/docker-compose up -d --build'
+        sh '/usr/local/bin/docker-compose up'
     }
     stage('Test') {
         sh 'npm run test:nowatch'
