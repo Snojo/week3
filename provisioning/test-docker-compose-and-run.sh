@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-export GIT_COMMIT=$1
+GIT_COMMIT=$(git rev-parse HEAD)
 
 /usr/local/bin/docker-compose up -d --build
