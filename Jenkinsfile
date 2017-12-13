@@ -13,8 +13,10 @@ node {
         }
         //sh 'npm run docker-compose up || npm run build'
         sh 'npm run startpostgres && sleep 10 && npm run migratedb:dev'
+        sh './dockerbuild.sh'
         dir('./provisioning'){
-            sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d --build'
+            // sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d --build'
+            sh '/usr/local/bin/docker-compose up -d --no-recreate'
         }
         
     }
@@ -25,7 +27,7 @@ node {
         sh '/usr/local/bin/docker-compose down'
     }
     stage('Deploy') {
-        sh './dockerbuild.sh'
+        //sh './dockerbuild.sh'
         dir('./provisioning')
         {
             sh "./provision-new-environment.sh"
