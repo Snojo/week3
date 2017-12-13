@@ -13,17 +13,13 @@ node {
         }
         //sh 'npm run docker-compose up || npm run build'
         sh 'npm run startpostgres && sleep 10 && npm run migratedb:dev'
-        sh 'npm run startserver:nowatch'
-        sh 'node run.js'
-        // dir('client')
-        // {
-        //     sh 'npm run start'
-        // }
+        sh './usr/local/bin/docker-compose up -d --build'
     }
     stage('Test') {
         sh 'npm run test:nowatch'
         sh 'npm run apitest:nowatch'
         sh 'npm run loadtest:nowatch'
+        sh './usr/local/bin/docker-compose down'
     }
     stage('Deploy') {
         sh './dockerbuild.sh'
