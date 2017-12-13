@@ -3,6 +3,7 @@ node {
     stage('Clean') {
         // Clean files from last build.
         sh 'git clean -dfxq'
+        sh 'killdocker.sh'
     }
     stage('Setup') {
         // Prefer yarn over npm.
@@ -29,7 +30,7 @@ node {
         sh 'npm run loadtest:nowatch'
         sh '/usr/local/bin/docker-compose down'
     }
-    
+
     stage('Deploy') {
         //sh './dockerbuild.sh'
         dir('./provisioning')
