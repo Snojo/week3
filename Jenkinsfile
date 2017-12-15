@@ -7,7 +7,6 @@ node {
     }
     stage('Setup') {
         // Prefer yarn over npm.
-        sh 'sudo npm install -g yarn'
         sh 'yarn install || npm install'
         dir('client')
         {
