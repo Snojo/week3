@@ -28,7 +28,7 @@ node {
     //     }
         sh 'npm run startserver & npm run apitest:nowatch && npm run loadtest:nowatch'
         sh 'sleep 5'
-        sh 'killall $!'
+        sh 'sudo kill -9 $!'
         //sh 'npm run apitest:nowatch'
         //sh 'npm run loadtest:nowatch'
         //sh '/usr/local/bin/docker-compose down'
