@@ -20,7 +20,7 @@ node {
          sh 'npm run test:nowatch'
          dir(client)
          {
-             sh 'npm run start && npm run test'
+             sh 'npm run start & npm run test && sleep 5 && kill $!'
          }
     }
     
