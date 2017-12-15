@@ -26,9 +26,7 @@ node {
     //         // sh '/usr/local/bin/docker-compose up -f ./docker-compose.yaml -d --build'
     //         sh './test-docker-compose-and-run.sh'
     //     }
-        sh 'npm run startserver & npm run apitest:nowatch && npm run loadtest:nowatch'
-        sh 'sleep 10'
-        sh 'kill -9 $!'
+        sh 'npm run startserver & npm run apitest:nowatch && npm run loadtest:nowatch && sleep 5 && kill $!'
         //sh 'npm run apitest:nowatch'
         //sh 'npm run loadtest:nowatch'
         //sh '/usr/local/bin/docker-compose down'
