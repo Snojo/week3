@@ -19,8 +19,8 @@ node {
     stage('UnitTest'){
          sh 'npm run test:nowatch'
          dir(client)
-         {
-             sh 'npm run start:nowatch'
+         { 
+             sh 'npm run test:nowatch'
          }
     }
     
