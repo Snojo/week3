@@ -5,9 +5,9 @@
 * [x] Public Url to your Datadog
     * https://p.datadoghq.com/sb/0d0f06324-17db6554aa
 * [ ] List of things you finished / did not finish (with comments):
-  * [ ] Completed the migrations needed for the application to work
-    * TODO: What was created?
-  * [ ] On Git push Jenkins pulls my code and the Tic Tac Toe application is deployed through a build pipeline, but only if all my tests are successful
+  * [x] Completed the migrations needed for the application to work
+    * Create a new migrations that creates a new column and facilitates rolling it back.
+  * [x] On Git push Jenkins pulls my code and the Tic Tac Toe application is deployed through a build pipeline, but only if all my tests are successful
     * TODO: If something is not working, list it.
   * [x] Filled out the `Assignments:` for the API and Load tests
     * The file is found in 
