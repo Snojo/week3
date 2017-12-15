@@ -36,7 +36,7 @@ describe("Tic Cell", function () {
 
 
     it('should render without error', function () {
-
+        expect(shallow(<TicCell />).length).toEqual(1);
     });
 
     it('should do more stuff', function () {
