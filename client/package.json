@@ -19,7 +19,7 @@
     "start": "export NODE_PATH=./src/ && react-scripts start",
     "build": "export NODE_PATH=./src/ && react-scripts build",
     "test": "export NODE_PATH=./src/ && react-scripts test --env=jsdom  --watchAll",
-    "test:nowatch": "CI=true && export NODE_PATH=./src/ && react-scripts test --env=jsdom",
+    "test:nowatch": "CI=true && export NODE_PATH=./src/ && react-scripts test --env=jsdom --ci --no-watchman",
     "eject": "react-scripts eject"
   }
 }
