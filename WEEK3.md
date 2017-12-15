@@ -4,7 +4,7 @@
     * http://34.241.225.169:8000
 * [x] Public Url to your Datadog
     * https://p.datadoghq.com/sb/0d0f06324-17db6554aa
-* [ ] List of things you finished / did not finish (with comments):
+* [x] List of things you finished / did not finish (with comments):
   * [x] Completed the migrations needed for the application to work
     * Create a new migrations that creates a new column and facilitates rolling it back.
   * [x] On Git push Jenkins pulls my code and the Tic Tac Toe application is deployed through a build pipeline, but only if all my tests are successful
@@ -15,8 +15,8 @@
     * TODO: If something is not working, list it.
   * [x] My test reports are published in Jenkins
     * TODO: If something is not working, list it.
-  * [ ] My Tic Tac Toe game works, two people can play a game till the end and be notified who won.
-    * TODO: If something is not working, list it.
+  * [x] My Tic Tac Toe game works, two people can play a game till the end and be notified who won.
+    * The code is a bit broken. If a player starts a game before the next player joins the channel, the second player is not able to see the created game. 
   * [x] My TicCell is tested
   * [x] I've set up Datadog
     * TODO: If something is not working, list it.
